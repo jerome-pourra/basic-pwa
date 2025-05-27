@@ -28,3 +28,18 @@ VITE_MODE="PROD" # Mode production (avec service worker)
 - Activation de la caméra (avec permissions utilisateur requises).
 
 - Activation de la géolocalisation (avec permissions utilisateur requises).
+
+## Commandes du projet
+
+Pour exécuter le projet, utilisez les commandes suivantes :
+
+```bash
+# Démarrer le serveur de développement
+npm run dev
+
+# Construire l'application pour la production
+npm run build
+
+# Prévisualiser l'application construite
+npm run preview
+```
